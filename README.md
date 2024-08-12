@@ -1,4 +1,4 @@
-# Web Development Project 6 - *Pokemon Dashboard*
+# Web Development Project 5 - *Pokemon Dashboard*
 
 Submitted by: **Chase Moffat**
 
